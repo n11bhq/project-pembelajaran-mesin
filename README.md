@@ -5,7 +5,7 @@ Klasifikasi Citra Batik
 Project Praktikum Machine LEarning
 </h2>
 
-##[Nizar Baihaqi](https://github.com/n11bhq) 201910370311308
+## [Nizar Baihaqi](https://github.com/n11bhq) 201910370311308
 
 
 ###### Link Dataset     : https://github.com/Tri334/batik-classification-resnet/
