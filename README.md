@@ -5,7 +5,9 @@ Klasifikasi Citra Batik
 Project Praktikum Machine LEarning
 </h2>
 
-### oleh : [Nizar Baihaqi](https://github.com/n11bhq) (201910370311308)
+<h5 align="center">
+oleh : [Nizar Baihaqi](https://github.com/n11bhq) (201910370311308)
+</h5>
 
 ###### Link Dataset     : https://github.com/Tri334/batik-classification-resnet/
 ###### Referensi Jurnal : Batik Classification Using Convolutional Neural Network with Data Improvements (http://www.joiv.org/index.php/joiv/article/view/716/402#)
