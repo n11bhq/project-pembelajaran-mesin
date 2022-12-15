@@ -6,7 +6,7 @@ Project Praktikum Machine LEarning
 </h2>
 
 <h5 align="center">
-oleh : [Nizar Baihaqi - 201910370311308](https://github.com/n11bhq)
+oleh : [Nizar Baihaqi](https://github.com/n11bhq) 201910370311308
 </h5>
 
 ###### Link Dataset     : https://github.com/Tri334/batik-classification-resnet/
