@@ -18,7 +18,7 @@ oleh : [Nizar Baihaqi - 201910370311308](https://github.com/n11bhq)
 <p align="center">
   <img src="https://github.com/n11bhq/project-pembelajaran-mesin/blob/main/Batik%20Dataset/Batik%20Dataset/Training/Ceplok/ceplok%20(1).jpg" width="100">
 </p>
-### **Kawung**
+## Kawung
 <p align="center">
  <img src="https://github.com/n11bhq/project-pembelajaran-mesin/blob/main/Batik%20Dataset/Batik%20Dataset/Training/Kawung/kawung%20(1).jpg" width="100">
 </p>
